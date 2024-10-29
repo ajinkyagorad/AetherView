@@ -4,7 +4,7 @@ AetherView is a transparent, always-on-top, real-time plotting overlay for a sci
 
 ![screenshot](imgs/vis.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XwqkOcA3pzs" frameborder="0" allowfullscreen></iframe>
+[![Watch a small demo on YouTube](https://img.youtube.com/vi/XwqkOcA3pzs/0.jpg)](https://youtu.be/XwqkOcA3pzs)
 
 ## Features
 - **Transparent Overlay**: Allows interaction with applications beneath it.
