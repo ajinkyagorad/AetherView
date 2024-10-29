@@ -4,6 +4,8 @@ AetherView is a transparent, always-on-top, real-time plotting overlay for a sci
 
 ![screenshot](imgs/vis.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XwqkOcA3pzs" frameborder="0" allowfullscreen></iframe>
+
 ## Features
 - **Transparent Overlay**: Allows interaction with applications beneath it.
 - **Real-Time Data Visualization**: Updates dynamically with dummy data, simulating live data.
@@ -13,6 +15,10 @@ AetherView is a transparent, always-on-top, real-time plotting overlay for a sci
 
 ## Installation
 
+
+## Note
+Currently, AetherView is a sample code that can be used by an AI assistant for generating augmented reality dashboards. There is no dedicated library yet, and it is unlikely that one will be created, as the custom components and use cases can be quite varied. Use this as a basis to develop your own tailored AR visualizations.
+
 ### Requirements
 - Python 3.x
 - PyQt5
@@ -20,7 +26,7 @@ AetherView is a transparent, always-on-top, real-time plotting overlay for a sci
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AetherView.git
+   git clone https://github.com/ajinkyagorad/AetherView.git
    cd AetherView
    ```
 
