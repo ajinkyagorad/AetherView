@@ -2,7 +2,7 @@
 
 AetherView is a transparent, always-on-top, real-time plotting overlay for a sci-fi aesthetic desktop. Designed to allow mouse interactions to pass through, AetherView lets you view real-time data visualizations without interrupting your workflow. AetherView features vivid colors, transparency effects, and several chart types including pie charts, line series, bar graphs, histograms, and contour plots.
 
-![screenshot](images/demo.png)
+![screenshot](imgs/vis.png)
 
 ## Features
 - **Transparent Overlay**: Allows interaction with applications beneath it.
